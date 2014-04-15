@@ -7,6 +7,11 @@
   background-color: #1799B8;
 }
 
+.screenshot {
+  margin: 25px;
+  height: 400px;
+}
+
 a.outlink:link    { color: #FFF; text-decoration: none; }
 a.outlink:visited { color: #FFF; text-decoration: none; }
 a.outlink:hover   { color: #FFF; text-decoration: underline; }
