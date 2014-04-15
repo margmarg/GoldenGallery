@@ -2,12 +2,12 @@
   margin: 20px;
 }
 
-.demolink {
+.outlink {
   padding: 6px;
   background-color: #1799B8;
 }
 
-a.demolink:link    { color: #FFF; text-decoration: none; }
-a.demolink:visited { color: #FFF; text-decoration: none; }
-a.demolink:hover   { color: #FFF; text-decoration: underline; }
-a.demolink:active  { color: #FFF; text-decoration: underline; }
+a.outlink:link    { color: #FFF; text-decoration: none; }
+a.outlink:visited { color: #FFF; text-decoration: none; }
+a.outlink:hover   { color: #FFF; text-decoration: underline; }
+a.outlink:active  { color: #FFF; text-decoration: underline; }
